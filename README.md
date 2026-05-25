@@ -38,7 +38,7 @@ This project was developed as a 3rd semester academic hardware mini-project to e
 
 ---
 
-## Technologies & Components Used
+## 🛠️ Technologies & Components Used
 
 ### Hardware
 - Arduino UNO
@@ -56,7 +56,7 @@ This project was developed as a 3rd semester academic hardware mini-project to e
 
 ---
 
-## Working Principle
+## ⚙️ Working Principle
 
 The system uses Light Dependent Resistors (LDRs) to detect sunlight intensity from different directions.
 
@@ -94,7 +94,7 @@ dual-axis-solar-tracker/
 
 ---
 
-## Learning Outcomes
+##📚 Learning Outcomes
 
 - Embedded systems fundamentals
 - Sensor interfacing with Arduino
@@ -105,7 +105,7 @@ dual-axis-solar-tracker/
 
 ---
 
-## Future Improvements
+##🚀 Future Improvements
 
 - IoT monitoring dashboard
 - OLED status display
@@ -115,7 +115,7 @@ dual-axis-solar-tracker/
 
 ---
 
-## References
+## 🔗 References
 
 Project inspiration/reference:
 https://youtu.be/YC4kIGQYld4
