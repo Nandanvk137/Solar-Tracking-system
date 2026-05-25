@@ -28,7 +28,7 @@ This project was developed as a 3rd semester academic hardware mini-project to e
 
 ---
 
-## Features
+## ✨ Features
 
 - Real-time sunlight tracking
 - Dual-axis panel movement
@@ -66,18 +66,19 @@ This improves solar energy absorption efficiency compared to fixed-position pane
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
-![Architecture](images/system-architecture.png)
+![System Architecture](images/system-architecture.png)
 
 ---
 
-## Circuit Diagram
+## 🔌 Circuit Diagram
 
-![Circuit](circuit-diagram/circuit-diagram.png)
+![Circuit Diagram](circuit-diagram/circuit-diagram.png)
+
+> Diagram recreated for documentation purposes.
+
 ---
-
-> Diagram recreated for project documentation purposes.
 ## Project Structure
 
 ```bash
