@@ -126,3 +126,11 @@ https://youtu.be/YC4kIGQYld4
 
 The original hardware prototype was developed during the 3rd semester.  
 This repository serves as a documentation and implementation archive of the project.
+
+## 👤 Author
+
+**Nandan Kuchabal**
+- GitHub: [@Nandanvk137](https://github.com/Nandanvk137)
+- LinkedIn: [nandan-kuchabal](https://linkedin.com/in/nandan-kuchabal-404964361)
+
+---
