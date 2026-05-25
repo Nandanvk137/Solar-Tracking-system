@@ -6,8 +6,11 @@ Arduino-based solar tracking system using LDR sensors and servo motors for autom
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Arduino-blue?style=for-the-badge">
+  <br></br>
   <img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge">
+    <br></br>
   <img src="https://img.shields.io/badge/Project-Hardware-orange?style=for-the-badge">
+    <br></br>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
