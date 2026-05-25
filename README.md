@@ -44,6 +44,18 @@ This improves solar energy absorption efficiency compared to fixed-position pane
 
 ---
 
+## System Architecture
+
+![Architecture](images/system-architecture.png)
+
+---
+
+## Circuit Diagram
+
+![Circuit](circuit-diagram/circuit-diagram.png)
+---
+
+> Diagram recreated for project documentation purposes.
 ## Project Structure
 
 ```bash
