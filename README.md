@@ -1,8 +1,27 @@
-# Solar Tracking System ☀️
+<h1 align="center">☀️ Solar Tracking System</h1>
+
+<p align="center">
+Arduino-based solar tracking system using LDR sensors and servo motors for automatic sunlight alignment.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Arduino-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-Hardware-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
+
+---
+
+# 📌 Overview
 
 An Arduino-based dual-axis solar tracking system developed using LDR sensors and servo motors to automatically align a solar panel toward maximum sunlight intensity.
 
-This project was developed as a 3rd semester academic hardware mini-project to explore embedded systems, sensor interfacing, and renewable energy applications.
+This project was developed as a 3rd semester academic hardware mini-project to explore:
+- Embedded Systems
+- Sensor Interfacing
+- Servo Motor Control
+- Renewable Energy Applications
 
 ---
 
